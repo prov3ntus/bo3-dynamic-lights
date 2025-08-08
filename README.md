@@ -6,7 +6,7 @@ By yours truly (prov3ntus)
 
 ## DOWNLOAD:
 
-Download [HERE](https://github.com/prov3ntus/bo3-dynamic-lights/releases/latest)!
+[pv_dynamic_lights.zip](https://github.com/prov3ntus/bo3-dynamic-lights/releases/latest)
 
 ## INSTRUCTIONS:
 
