@@ -55,7 +55,11 @@ scriptparsetree,scripts/_pv/pv_dynamic_lights.gsc
 
 AAAAND you're done!
 
+---
+
 ## Notes
+
+You can change the height of the rope entity (the red box) to be as long or short as you want. You can also customise the KVPs on it as well.
 
 If it doesn't work, 3x check everything and read thru the instructions again.
 
