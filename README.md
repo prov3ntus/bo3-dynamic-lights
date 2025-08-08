@@ -2,6 +2,12 @@
 
 By yours truly (prov3ntus)
 
+---
+
+## DOWNLOAD:
+
+Download [HERE](https://github.com/prov3ntus/bo3-dynamic-lights/releases/latest)!
+
 ## INSTRUCTIONS:
 
 ### Step 1 - Drag n' Drop
