@@ -38,12 +38,19 @@ For the main `script_model`, you ***MUST*** have a `script_noteworthy` key with 
 
 You can use any models you like!
 
-### Step 4
+### Step 4 - GSC & Zone
 
 Open your `<MapName>.gsc` file, and add this line below `#using scripts\zm\zm_usermap;`
 
 ```cpp
 #using scripts\_pv\pv_dynamic_lights;
+```
+
+Then, open your Zone file, and add the following anywhere:
+
+```cpp
+// Dynamic Lights
+scriptparsetree,scripts/_pv/pv_dynamic_lights.gsc
 ```
 
 AAAAND you're done!
