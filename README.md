@@ -4,6 +4,11 @@ By yours truly (prov3ntus)
 
 ---
 
+## PREVIEW:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54e3691c-9c68-4bba-9e41-1cc64862ba4c" />
+
+
 ## DOWNLOAD:
 
 [pv_dynamic_lights.zip](https://github.com/prov3ntus/bo3-dynamic-lights/releases/latest)
