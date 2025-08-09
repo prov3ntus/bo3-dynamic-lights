@@ -69,6 +69,9 @@ AAAAND you're done!
 
 ## Notes
 
+Make sure to COMPILE< LIGHT **AND** LINK because light entities are only built when you build lights.
+You ALWAYS have to link!
+
 You can change the height of the rope entity (the red box) to be as long or short as you want. You can also customise the KVPs on it as well.
 
 If it doesn't work, 3x check everything and read thru the instructions again.
