@@ -6,8 +6,7 @@ By yours truly (prov3ntus)
 
 ## PREVIEW:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54e3691c-9c68-4bba-9e41-1cc64862ba4c" />
-
+![Preview](https://i.imgur.com/sSN1uqH.gif)
 
 ## DOWNLOAD:
 
