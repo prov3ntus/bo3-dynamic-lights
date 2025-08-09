@@ -6,7 +6,7 @@ By yours truly (prov3ntus)
 
 ## PREVIEW:
 
-![Preview](https://i.imgur.com/sSN1uqH.gif)
+https://i.imgur.com/tzsvLug.mp4
 
 ## DOWNLOAD:
 
