@@ -46,7 +46,7 @@ SCRIPTING
 
 For the main `script_model`, you ***MUST*** have a `script_noteworthy` key with the value of `dyn_light_model`.
 
-You can use any models you like!
+You can use any models you like! Just make sure it has a bullet collision LOD set in APE!
 
 ### Step 4 - GSC & Zone
 
